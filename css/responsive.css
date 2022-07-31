@@ -1,0 +1,41 @@
+@media (max-width: 620px) {
+    .slider {
+        padding: 0 15px;
+        gap: 10px;
+    }
+
+    .setas {
+        width: 20px;
+        height: 20px;
+        padding: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .listacards {
+        height: 480px;
+    }
+
+    .nome {
+        max-width: 50%;
+        font-size: 18px;
+    }
+
+    .vida {
+        font-size: 14px;
+    }
+
+    .text1 {
+        overflow-y: auto;
+        max-height: 50px;
+    }
+
+    .title4{
+        padding: 5px;
+    }
+
+    .img1 {
+        max-height: 300px;
+    }
+}
